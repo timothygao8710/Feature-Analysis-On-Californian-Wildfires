@@ -1,0 +1,33 @@
+|
+Predictive Modeling of Wildfires: A New Dataset and Machine Learning Approach
+temperature, precipitation, humidity, wind speed
+|
+An intelligent system for forest re risk prediction and fire fighting management in Galicia.
+humidity, precipitation, temperature, fire history
+|
+Machine Learning Wildfire Prediction based on Climate Data
+Air pressure, precipitation, wind speed, temperature, vegetation, fire history
+|
+Next Day Wildfire Spread: A Machine Learning Data Set to Predict Wildfire Spreading from Remote-Sensing Data
+Elevation, Wind direction, Wind speed, Temperature, Humidity, Precipitation, Drought index, Vegetation, Population density, Energy release component
+|
+Famiglietti C, et al.
+Temperature, Humidity, Solar radiation, precipitation
+|
+Dutta. R, et al.
+Temperature, Humidity, Wind Speed, Solar radiation, Precipitation, soil moisture
+|
+El-Neer
+Elevation
+|
+NASA
+Humidity, Wind speed, solar radiation, heat flux, vapor pressure, soil moisture
+|
+Fire Hazard Modeling in Southern Africa
+Temperature, biomass index, vegetation, Land cover, precipitation, slope and human factors
+|
+Circumpolar spatio-temporal patterns and contributing climatic factors of wildfire activity in the Arctic tundra from 2001–2015
+Temperature, precipitation, soil moisture, evaporation from land
+|
+Artificial neural network approach for modeling the impact of population density and weather parameters on forest fire risk
+wind speed, humidity, sunshine, population
